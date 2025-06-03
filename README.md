@@ -110,15 +110,15 @@ We store personal data only as long as needed to fulfill its purpose or as requi
 
 Service Providers and Data Subprocessors  
 To deliver our Services, we utilize various data subprocessors, each handling specific categories of data. The subprocessors include:  
-• Google: 
+• Google:  
 Purpose: Play Store, Android payments, In-app purchases and subscription management, Android app infrastructure  
-Google Privacy Policy: https://policies.google.com/privacy?hl=en-US
-• GitHub: https://docs.github.com/en/site-policy/privacy-policies  
-Purpose: roadmap, access to repositories containing BestBefore privacy policy and BestBefore terms of use
-GitHub Privacy Policy: 
+Google Privacy Policy: https://policies.google.com/privacy?hl=en-US  
+• GitHub:  
+Purpose: roadmap, access to repositories containing BestBefore privacy policy and BestBefore terms of use  
+GitHub Privacy Policy: https://docs.github.com/en/site-policy/privacy-policies  
 • Firebase (by Google)  
 Purpose: Authentication, Data storage, Analytics  
-Firebase Privacy Policy: https://firebase.google.com/support/privacy?hl=en
+Firebase Privacy Policy: https://firebase.google.com/support/privacy?hl=en  
 • Google AdMob  
 Purpose: In-app advertising  
 AdMob Privacy Policy: https://support.google.com/admob/answer/6128543?hl=en
