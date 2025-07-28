@@ -1,7 +1,7 @@
 # bestbefore-privacy-policy
 Official privacy policy for the BestBefore app.
 
-Last updated June 3, 2025
+Last updated July 28, 2025
 
 Introduction & Definitions  
 BestBefore: "we", "us", "Company", or "our"  
@@ -46,14 +46,14 @@ We do not use your email for advertising or marketing.
 Account Activity  
 Depending on the device used, this data may include information such as your IP address, device and application identification numbers, browser type, push notifications token, hardware model, operating system, and system configuration information.
 
-IP logging
+IP logging  
 By default, we do not maintain permanent IP logs associated with your Account. However, temporary IP logs might be kept in the future because of future improvements to BestBefore and its services in order to prevent abuse and fraud and to provide you options for multiple device management. If you engage in activities that violate our terms and conditions, such as spamming, DDoS attacks, or brute force attacks, your IP address may be permanently retained. The legal basis for this processing is our legitimate interest in protecting our service from malicious activities and to provide you with device management features.
 
 Crash Reporting  
 We use Firebase Crashlytics to monitor and fix app issues. Crash logs contain technical data like app version and device type, but no personal identifiers. These logs are used only to improve app performance and stability.
 
 Information regarding Minors  
-Our Services are not intended for children under 13 and do not target this age group.
+Our Services are not intended for children below the age of 13 and do not target this age group.
 
 Mobile Device Access  
 The BestBefore app may request access or permission to certain features from your mobile device, e.g. your mobile device’s camera. Access to some of these sources is required for certain app features (e.g. you need to enable the camera permission in order to use the app’s main features). Your device is required to have a camera to use the BestBefore app. If you wish to change BestBefore app access or permissions, you may do so in your device’s settings.
@@ -76,7 +76,7 @@ The app may include links to websites and products of interest. However, we do n
 Embedded Content  
 We may use third parties to provide embedded content, such as pictures and videos. Embedded content may collect information about you. The legal basis for this is to provide rich and educational content in order for us to drive interest and growth.
 
-Cookie & Tracking Technologies Policy
+Cookie & Tracking Technologies Policy  
 We do not use traditional web cookies in the BestBefore mobile app. However, some of the third-party services we use — such as Firebase and Google AdMob — may utilize mobile identifiers or similar technologies that serve a comparable purpose to cookies.
 
 These technologies may collect information such as:  
@@ -100,7 +100,7 @@ We use the information that you provide to:
 • Deliver and facilitate the delivery of services to the user.  
 • Send administrative information to you (details about our products and services, changes to our terms and policies, and other similar information).  
 • Fulfill and manage your Subscription Plans.  
-• Protect our Services from fraud, abuse, and spam.  
+• Protect our Services from fraud, abuse and spam.  
 • Maintain and improve our systems and Services.  
 • Anonymously analyze collected data and information statistically (this helps us ensure an optimal level of protection for the personal data we process).
 
@@ -130,7 +130,7 @@ Account termination: You can request your data to be irrevocably deleted (Right 
 
 Other cases: If your account is suspended or terminated, we might keep your account information if we think it’s needed to prove a breach of our Terms or if there’s ongoing or expected action from law enforcement or other parties.
 
-Data Disclosure
+Data Disclosure  
 We do not sell, trade, rent, or transfer your personal information to others without prior notice. However, there may be instances where BestBefore shares your personal information with others to facilitate the delivery of our Services, such as:
 
 Disclosure provided by law or for protection: We will only share the minimal user data we have if required by an enforceable court order or we believe it is necessary or appropriate to protect the rights, property, or safety of BestBefore, our employees, our customers, or others. Whenever legally allowed, we will notify the user prior to any data disclosure, provided we have a means to contact them (i.e., email address).
